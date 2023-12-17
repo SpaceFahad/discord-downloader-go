@@ -50,6 +50,7 @@ It also supports **very extensive** settings configurations and customization, a
     The original project was abandoned, for a list of differences and why I made an independent project, <a href="#differences-from-seklfreaks-discord-image-downloader-go--why-i-made-this"><b>see below</b></a>
 </h4>
 
+
 ---
 
 <h3><a href="https://github.com/get-got/discord-downloader-go/wiki/Home">SEE THE WIKI FOR MORE</a></h3>
