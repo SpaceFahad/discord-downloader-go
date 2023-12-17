@@ -77,6 +77,7 @@ It also supports **very extensive** settings configurations and customization, a
 
 ---
 
+
 ## ⚠️ **WARNING!** Discord does not allow Automated User Accounts (Self-Bots/User-Bots)
 
 [Read more in Discord Trust & Safety Team's Official Statement...](https://support.discordapp.com/hc/en-us/articles/115002192352-Automated-user-accounts-self-bots-)
